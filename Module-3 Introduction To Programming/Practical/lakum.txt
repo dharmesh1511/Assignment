@@ -1,0 +1,8 @@
+This is the program of file handling
+This is the dharmesh fileHello my name is Dharmesh.
+
+Hello my name is Dharmesh.
+
+Hello my name is Dharmesh.
+
+Hello my name is Dharmesh.
